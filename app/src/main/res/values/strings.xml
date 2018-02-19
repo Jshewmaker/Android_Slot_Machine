@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Slot_Machine</string>
+    <string name="Bank_label">Bank</string>
+    <string name="Amount_Label">Amount</string>
+    <string name="Amount_Value_Label">Enter Amount</string>
+    <string name="Bank_Label">Bank</string>
+    <string name="Bank_Amount" />
+    <string name="Set_Value_Button">Set Value</string>
+    <string name="New_Game_Button">New Game</string>
+    <string name="Pull_Lever_Button">Pull Lever</string>
+    <string name="bNewGame">New Game</string>
+    <string name="tvBank" />
+</resources>
